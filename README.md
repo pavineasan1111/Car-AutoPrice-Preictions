@@ -66,6 +66,8 @@ During the project, several challenges were encountered:
 
 These steps ensured that the dataset was ready for model training, and the final model was robust and accurate.
 
+![Correlation Heat Map](https://github.com/pavineasan1111/Car-AutoPrice-Preictions/blob/main/Correlation%20Heat%20map.JPG?raw=true)
+
 ## Conclusion
 
 The XGBoost model accurately predicts car prices based on a variety of features such as engine size, make, and horsepower. This project provides valuable insights into how different features affect the price, allowing management to make informed decisions regarding car design and pricing strategies.
